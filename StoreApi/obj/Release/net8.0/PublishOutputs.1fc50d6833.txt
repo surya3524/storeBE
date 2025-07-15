@@ -1,0 +1,12 @@
+C:\Users\surya\OneDrive\Documents\Personal\Learninf\BE\storeBE\StoreApi\publish\StoreApi.exe
+C:\Users\surya\OneDrive\Documents\Personal\Learninf\BE\storeBE\StoreApi\publish\appsettings.Development.json
+C:\Users\surya\OneDrive\Documents\Personal\Learninf\BE\storeBE\StoreApi\publish\appsettings.json
+C:\Users\surya\OneDrive\Documents\Personal\Learninf\BE\storeBE\StoreApi\publish\StoreApi.dll
+C:\Users\surya\OneDrive\Documents\Personal\Learninf\BE\storeBE\StoreApi\publish\StoreApi.deps.json
+C:\Users\surya\OneDrive\Documents\Personal\Learninf\BE\storeBE\StoreApi\publish\StoreApi.runtimeconfig.json
+C:\Users\surya\OneDrive\Documents\Personal\Learninf\BE\storeBE\StoreApi\publish\StoreApi.pdb
+C:\Users\surya\OneDrive\Documents\Personal\Learninf\BE\storeBE\StoreApi\publish\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\surya\OneDrive\Documents\Personal\Learninf\BE\storeBE\StoreApi\publish\Microsoft.OpenApi.dll
+C:\Users\surya\OneDrive\Documents\Personal\Learninf\BE\storeBE\StoreApi\publish\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\surya\OneDrive\Documents\Personal\Learninf\BE\storeBE\StoreApi\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\surya\OneDrive\Documents\Personal\Learninf\BE\storeBE\StoreApi\publish\Swashbuckle.AspNetCore.SwaggerUI.dll
