@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\surya\\OneDrive\\Documents\\Personal\\Learninf\\BE\\storeBE\\StoreApi\\StoreApi.csproj": {}
+    "C:\\Users\\surya\\OneDrive\\Documents\\Personal\\Learninf\\BE\\storeBE\\storeApi\\StoreApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\surya\\OneDrive\\Documents\\Personal\\Learninf\\BE\\storeBE\\StoreApi\\StoreApi.csproj": {
+    "C:\\Users\\surya\\OneDrive\\Documents\\Personal\\Learninf\\BE\\storeBE\\storeApi\\StoreApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\surya\\OneDrive\\Documents\\Personal\\Learninf\\BE\\storeBE\\StoreApi\\StoreApi.csproj",
+        "projectUniqueName": "C:\\Users\\surya\\OneDrive\\Documents\\Personal\\Learninf\\BE\\storeBE\\storeApi\\StoreApi.csproj",
         "projectName": "StoreApi",
-        "projectPath": "C:\\Users\\surya\\OneDrive\\Documents\\Personal\\Learninf\\BE\\storeBE\\StoreApi\\StoreApi.csproj",
+        "projectPath": "C:\\Users\\surya\\OneDrive\\Documents\\Personal\\Learninf\\BE\\storeBE\\storeApi\\StoreApi.csproj",
         "packagesPath": "C:\\Users\\surya\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\surya\\OneDrive\\Documents\\Personal\\Learninf\\BE\\storeBE\\StoreApi\\obj\\",
+        "outputPath": "C:\\Users\\surya\\OneDrive\\Documents\\Personal\\Learninf\\BE\\storeBE\\storeApi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

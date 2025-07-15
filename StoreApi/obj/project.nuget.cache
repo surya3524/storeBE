@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WRw98S77BoM=",
+  "dgSpecHash": "uRpmgq5Al6w=",
   "success": true,
-  "projectFilePath": "C:\\Users\\surya\\OneDrive\\Documents\\Personal\\Learninf\\BE\\storeBE\\StoreApi\\StoreApi.csproj",
+  "projectFilePath": "C:\\Users\\surya\\OneDrive\\Documents\\Personal\\Learninf\\BE\\storeBE\\storeApi\\StoreApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\surya\\.nuget\\packages\\microsoft.aspnetcore.openapi\\8.0.15\\microsoft.aspnetcore.openapi.8.0.15.nupkg.sha512",
     "C:\\Users\\surya\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",

@@ -35,3 +35,9 @@ C:\Users\surya\OneDrive\Documents\Personal\Learninf\BE\storeBE\StoreApi\obj\Rele
 C:\Users\surya\OneDrive\Documents\Personal\Learninf\BE\storeBE\StoreApi\obj\Release\net8.0\StoreApi.pdb
 C:\Users\surya\OneDrive\Documents\Personal\Learninf\BE\storeBE\StoreApi\obj\Release\net8.0\StoreApi.genruntimeconfig.cache
 C:\Users\surya\OneDrive\Documents\Personal\Learninf\BE\storeBE\StoreApi\obj\Release\net8.0\ref\StoreApi.dll
+C:\Users\surya\OneDrive\Documents\Personal\Learninf\BE\storeBE\storeApi\bin\Release\net8.0\publish\web.config
+C:\Users\surya\OneDrive\Documents\Personal\Learninf\BE\storeBE\storeApi\bin\Release\net8.0\publish\appsettings.Development.json
+C:\Users\surya\OneDrive\Documents\Personal\Learninf\BE\storeBE\storeApi\bin\Release\net8.0\publish\appsettings.json
+C:\Users\surya\OneDrive\Documents\Personal\Learninf\BE\storeBE\storeApi\bin\Release\net8.0\publish\StoreApi.deps.json
+C:\Users\surya\OneDrive\Documents\Personal\Learninf\BE\storeBE\storeApi\bin\Release\net8.0\publish\StoreApi.runtimeconfig.json
+C:\Users\surya\OneDrive\Documents\Personal\Learninf\BE\storeBE\storeApi\bin\Release\net8.0\publish\StoreApi.staticwebassets.endpoints.json
